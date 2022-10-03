@@ -1,4 +1,4 @@
 # CleverBaby__adaptive_landing
 Адаптивная верстка лендинга по макету figma(Swiper, api яндекс карт, спойлер, бургер, скролл, видео)
 
-Посмотреть сайт: https://klimsupermachine.github.io/CleverBaby__adaptive_landing/
+Посмотреть сайт: https://klimsupermachine.github.io/CleverBaby__adaptive_landing/ 
